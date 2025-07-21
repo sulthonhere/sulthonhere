@@ -42,3 +42,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: productive-box
+        uses: maxam2017/productive-box@v1.2.0
