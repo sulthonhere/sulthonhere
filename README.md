@@ -16,8 +16,6 @@
 
 > 📦 98.5 kB Used in GitHub's Storage 
  > 
-> 🏆 86 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -84,7 +82,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/sulthonhere/sulthonhere/main/assets/bar_graph.png)
 
 
- Last Updated on 22/07/2025 18:00:15 UTC
+ Last Updated on 22/07/2025 18:15:21 UTC
 <!--END_SECTION:waka-->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulthonhere&layout=compact&theme=default" alt="Top Languages" />
