@@ -6,3 +6,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sulthonhere/sulthonhere/output/github-contribution-grid-snake.svg">
 </picture>
 -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
