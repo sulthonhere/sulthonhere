@@ -1,8 +1,8 @@
 # Hello World! <img src="assets\victory.gif" widht="30" height="30"></img>
 
-Sulthon here
+### Sulthon here
 
-A Result-Driven Junior Web Developer | Dedicated to applying concepts & experience to real-world problems
+I'am a Result-Driven Junior Web Developer | Dedicated to applying concepts & experience in real-world problems
 
 <details>
 <summary>More about me. . .</summary>
@@ -17,19 +17,15 @@ A Result-Driven Junior Web Developer | Dedicated to applying concepts & experien
 - GIT, GitHub
 - MySQL
 
-## <img src="assets\fire.gif" widht="25" height="25"></img> Github Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulthonhere&layout=compact&theme=dark" alt="Top Languages" />
+<!-- ## <img src="assets\fire.gif" widht="25" height="25"></img> Github Stats
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulthonhere&layout=compact&theme=dark" alt="Top Languages" /> -->
 
 <h3 align='center'><i>Do More, Say Less</i></h3>
 </details>
 
-<hr>
-
+<!-- <hr>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sulthonhere/sulthonhere/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sulthonhere/sulthonhere/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sulthonhere/sulthonhere/output/github-contribution-grid-snake.svg">
-</picture>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+</picture> -->
