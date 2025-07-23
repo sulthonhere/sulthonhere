@@ -29,3 +29,7 @@ I'am a Result-Driven Junior Web Developer | Dedicated to applying concepts & exp
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sulthonhere/sulthonhere/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sulthonhere/sulthonhere/output/github-contribution-grid-snake.svg">
 </picture> -->
+
+<hr>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
