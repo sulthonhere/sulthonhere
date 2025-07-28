@@ -1,8 +1,8 @@
-# Hello World! <img src="assets\victory.gif" widht="30" height="30"></img>
+# Hello World!
 
-### Sulthon here
+### <img src="assets\victory.gif" widht="25" height="25"></img> Sulthon here
 
-I'am a Result-Driven Junior Web Developer | Dedicated to applying concepts & experience in real-world problems
+Result-Driven Junior Web Developer | Dedicated to applying concepts & experience in real-world problems
 
 <!-- <details>
 <summary>More about me. . .</summary> -->
