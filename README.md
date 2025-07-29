@@ -1,6 +1,7 @@
-# Hello World!
+<!-- # Hello World! -->
+<img src="assets\hello-wrld.gif"></img>
 
-### <img src="assets\victory.gif" widht="25" height="25"></img> Sulthon here
+## <img src="assets\victory.gif" widht="25" height="25"></img> Sulthon here
 
 Result-Driven Junior Web Developer ⋅ Dedicated to applying concepts & experience in real-world problems
 
@@ -8,9 +9,13 @@ Result-Driven Junior Web Developer ⋅ Dedicated to applying concepts & experien
 <summary>More about me. . .</summary> -->
 
 ## <img src="assets\ocean.gif" widht="25" height="25"></img> Quick Overview
-- 🤝 Committed to provide clean, efficient, and well documented code
-- ⚡ Specialize in creating IT Solution to enhance bussiness goals
+- 🤝 Committed to provide clean, efficient, and well-documented code
+- ⚡ Specialized in creating IT Solution to enhance bussiness goals
 - ✅ Proven expertise in Collaboration, Laravel, and REST API
+
+  > ℹ️ Works well with `ChatGPT` & **coffee**
+
+- 🔍 Currently learning multiple tech-stack
 
 ## <img src="assets\gear.gif" widht="25" height="25"></img> Tech Stack
 - Laravel, Code Igniter, Express.js, Node.js
