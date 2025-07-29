@@ -5,6 +5,8 @@
 
 Result-Driven Junior Web Developer ⋅ Dedicated to applying concepts & experience in real-world problems
 
+  > ℹ️ Works well with **coffee** & `ChatGPT`
+
 <!-- <details>
 <summary>More about me. . .</summary> -->
 
@@ -12,9 +14,6 @@ Result-Driven Junior Web Developer ⋅ Dedicated to applying concepts & experien
 - 🤝 Committed to provide clean, efficient, and well-documented code
 - ⚡ Specialized in creating IT Solution to enhance bussiness goals
 - ✅ Proven expertise in Collaboration, Laravel, and REST API
-
-  > ℹ️ Works well with `ChatGPT` & **coffee**
-
 - 🔍 Currently learning multiple tech-stack
 
 ## <img src="assets\gear.gif" widht="25" height="25"></img> Tech Stack
