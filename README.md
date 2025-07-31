@@ -24,10 +24,10 @@ Result-Driven Junior Web Developer ⋅ Dedicated to applying concepts & experien
 <!-- ## <img src="assets\fire.gif" widht="25" height="25"></img> Github Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulthonhere&layout=compact&theme=dark" alt="Top Languages" /> -->
 
-<h2 align='center'>
+<!-- <h2 align='center'>
   <img src="assets\fire.gif" widht="25" height="25">
   <i>Say Less, Do More</i>
-</h2>
+</h2> -->
 <!-- </details> -->
 
 <!-- <picture>
